@@ -1,0 +1,66 @@
+# Portfolio Website - Git Ignore
+
+# Environment variables and configuration
+.env
+.env.local
+.env.production
+config.local.js
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional: Uncomment if you want to ignore images during development
+# assets/images/*.jpg
+# assets/images/*.png
+# assets/images/*.jpeg
+# !assets/images/README.md
+
+# Optional: Uncomment if you want to ignore resume
+# assets/resume.pdf
+
+# Node modules (if you add build tools later)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build output (if you add build process)
+dist/
+build/
+.cache/
+
+# Backup files
+*.bak
+*.backup
+*.old
+*.orig
+
+# Temporary files
+tmp/
+temp/
+*.tmp
