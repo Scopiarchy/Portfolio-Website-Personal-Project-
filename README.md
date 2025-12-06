@@ -306,5 +306,4 @@ For issues or questions:
 
 ---
 
-**Made with Dimuthu Shalinda**
-
+**Made with ❤️ by Janindi Didulakshi**
