@@ -304,6 +304,3 @@ For issues or questions:
 - Supabase for backend services
 - Google Fonts for typography
 
----
-
-**Made with ❤️ by Janindi Didulakshi**
